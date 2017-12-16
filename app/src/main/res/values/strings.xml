@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lab 4.3 SQL lite</string>
+    <string name="action_settings">Settings</string>
+    <string name="cancel">cancel</string>
+    <string name="save">save</string>
+    <string name="email">email</string>
+    <string name="phone">phone</string>
+    <string name="name">name</string>
+    <string name="error_phone">Please enter phone</string>
+    <string name="error_name">Please enter name</string>
+    <string name="error_email">Please enter email</string>
+    <string name="error_invalid_email">Invalid email</string>
+    <string name="no_record_message">No record</string>
+</resources>
